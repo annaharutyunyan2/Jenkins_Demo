@@ -1,5 +1,3 @@
-package com.project;
-
 public class Main {
 
     public static String concatenate(String one, String two){
